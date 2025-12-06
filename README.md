@@ -1,2 +1,3 @@
 # kush-demo
-This is my first GitHub repo
+This is my first GitHub repository.
+Author - Kush Sukhadiya
